@@ -1,4 +1,12 @@
-# demo-repo
-This is my first git repository.
-<br>
-Author - Sankhajit Roy
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My first PHP page</h1>
+
+<?php
+echo "Hello World!";
+?>
+
+</body>
+</html>
